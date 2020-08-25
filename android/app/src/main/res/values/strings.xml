@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">freezer</string>
+    <string name="title_activity_main">freezer</string>
+    <string name="package_name">com.jperdior.freezer</string>
+    <string name="custom_url_scheme">com.jperdior.freezer</string>
+</resources>
